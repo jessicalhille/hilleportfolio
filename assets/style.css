@@ -10,7 +10,7 @@
 
 header {
     padding: 20px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: white;
     display: flex;
     justify-content: space-between;
@@ -59,17 +59,17 @@ header nav ul li {
 }
 
 .hero img {
-    width: 65%;
+    width: 60%;
 }
 
 .hero-text{
-    font-family: Arial, Helvetica, sans-serif;
     position: relative;
-    left: -4%;
+    left: -2%;
     margin-bottom: 7%;
 }
 
 .hero-text h1 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 100px;
 }
 
@@ -90,7 +90,7 @@ header nav ul li {
 }
 
 .quote h2 {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 40px;
     font-weight: lighter;
 }
