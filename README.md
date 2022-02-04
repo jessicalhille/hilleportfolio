@@ -25,7 +25,7 @@
 
 ***
 
-<img width="1502" alt="Screen Shot 2021-10-31 at 3 54 48 PM" src="https://user-images.githubusercontent.com/91511805/139601303-f5da9d55-4174-4c3c-baf5-324bf71a6317.png">
+<img width="1897" alt="Screen Shot 2022-02-03 at 9 50 33 PM" src="https://user-images.githubusercontent.com/91511805/152468899-81081c88-8b68-4f97-8f13-5fcd76aaedfa.png">
 
 ***
 
