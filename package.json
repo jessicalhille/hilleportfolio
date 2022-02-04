@@ -1,0 +1,22 @@
+{
+  "name": "hilleportfolio",
+  "version": "1.0.0",
+  "description": "## Description ##### The purpose of this project was to create a web portfolio for ourselves from scratch, using HTML and CSS, and following the User Story and the Acceptance Criteria listed below.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessicalhille/hilleportfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessicalhille/hilleportfolio/issues"
+  },
+  "homepage": "https://github.com/jessicalhille/hilleportfolio#readme",
+  "dependencies": {
+    "fullpage.js": "^3.1.2"
+  }
+}
